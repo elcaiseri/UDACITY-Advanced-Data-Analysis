@@ -1,7 +1,6 @@
-# UDACITY-Advanced-Data-Analysis
+# UDACITY - Advanced-Data-Analysis Track Project
 
-## FordGo Bike - Trip Data
-### Dataset
+## FordGo Bike - Trip Dataset
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in **Feb2019.**
 **The dataset after cleaning contains 174952 trips with 15 features. The features are:**
