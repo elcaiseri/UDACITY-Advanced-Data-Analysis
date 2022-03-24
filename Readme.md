@@ -1,10 +1,11 @@
-# FordGo Bike - Trip Data
+# UDACITY-Advanced-Data-Analysis
 
-## Dataset
+## FordGo Bike - Trip Data
+### Dataset
 
 This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in **Feb2019.**
 **The dataset after cleaning contains 174952 trips with 15 features. The features are:**
-> 1. duration_sec : duration for the trip in second
+1. duration_sec : duration for the trip in second
 2. start_station_name : the trip start station name
 3. end_station_name : the trip end station name
 4. start_station_latitude : start station latitude location
@@ -36,5 +37,5 @@ This data set includes information about individual rides made in a bike-sharing
 * Days of Month and Day of Week
 * The correlation between the numerical features.
 * The relation between the main features which are (Duration, Age and Gender).
-# UDACITY-Advanced-Data-Analysis
-# UDACITY-Advanced-Data-Analysis
+
+<hr>
